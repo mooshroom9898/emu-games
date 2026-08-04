@@ -1,2 +1,2 @@
 # emu-games
-Roms for UGS
+Roms made for UGS.
