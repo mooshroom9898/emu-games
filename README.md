@@ -1,2 +1,2 @@
 # emu-games
-Roms made for UGS.
+Roms made for UGS, completely unorganized and just scattered around
